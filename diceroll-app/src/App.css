@@ -1,0 +1,11 @@
+.button {
+  text-align: center;
+  font-size: 15px;
+  background-color: gray;
+  border: none;
+  padding: 40px 80px;
+}
+
+.diceDiv {
+  text-align:center;
+}
